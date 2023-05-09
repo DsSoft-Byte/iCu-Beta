@@ -45,9 +45,9 @@ Partial Class Form2
         Me.Label1.ForeColor = System.Drawing.SystemColors.ControlLight
         Me.Label1.Location = New System.Drawing.Point(13, 13)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(183, 18)
+        Me.Label1.Size = New System.Drawing.Size(197, 18)
         Me.Label1.TabIndex = 3
-        Me.Label1.Text = "DsSoft iCu software EULA"
+        Me.Label1.Text = "DsSoft iCu X software EULA"
         '
         'Button1
         '
@@ -73,7 +73,7 @@ Partial Class Form2
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "Form2"
-        Me.Text = "DsSoft iCu EULA"
+        Me.Text = "DsSoft iCu X EULA"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
